@@ -1,0 +1,23 @@
+.gif_contenedor{
+    height: 100vh;
+    background-image: url(../asset/img/gif2.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logolyft{
+  text-align: center;
+padding: 5vh;
+}
+
+.loglyf{
+   
+    width: 30vw;
+   
+}
+
+@media screen and (max-width: 480px){
+    
+}
+
+
